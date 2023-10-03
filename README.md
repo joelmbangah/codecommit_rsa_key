@@ -1,2 +1,1 @@
-# codecommit_rsa_key
-codecommit_rsa_key
+# AWS Native CI/CD Pipeline Project
